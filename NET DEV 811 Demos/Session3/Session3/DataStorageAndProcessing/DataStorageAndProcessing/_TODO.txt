@@ -1,0 +1,41 @@
+﻿
+1) Data Storage and Data Processing Classes
+- Discuss the DemoClasses.cs file
+
+2) Making Dlls
+- Demo how to create class libraries.
+
+3) Inheritance Basics (This will be repeated next session as well!)
+- Review the meaning of the terms:
+	
+	- abstract
+	- sealed
+
+	- virtual
+	- override
+	- new
+
+	- this
+	- base
+
+4) Access Modifiers
+- demo the use of access modifiers using the file AccessModiferTest.cs
+	* Public
+		- all other classes can see the class member
+	* Private
+		- All other classes cannot see the class member
+		- Non-nested classes cannot be declared using the private keyword
+	* Protected
+		- Protected data is regarded as private "outside" of the Inheritance "Family"	
+	* Internal 
+		- Internal data is regarded as private "outside" of the Assembly		
+	* Protected Internal
+
+
+-- As Time allows --
+5) Creating UI Containers
+- Demo how to use Panels, Group Boxes, and Tabs.
+
+
+
+

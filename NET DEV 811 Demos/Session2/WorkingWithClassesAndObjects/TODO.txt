@@ -1,0 +1,26 @@
+1) Demo how to make the Gender Enumeration in and project and the Class Diagram tool
+Lab: Add a Gender Enum to the MyWorkingWithClassesAndObjects project
+
+2) Demo how to make the Person class in the project and add it to the diagram
+Lab: Add a Person class to the MyWorkingWithClassesAndObjects project
+
+3) Demo how to make the Customer class using the Class Diagram tool
+Lab: Add a Person class to the MyWorkingWithClassesAndObjects project
+
+4) Demo how to create a person object using Form1
+Lab: create a person object using Form1
+
+5) Demo how to create a Customer object using Form1
+Lab: create a customer object using Form1
+
+6) Demo how to create a Class Library
+7) Demo how to create a Customer object, from the Class Library, using Form1
+Lab: create a customer object, from the Class Library, using Form1
+
+8) Demo how changing the Class Library's Customer's class Access Modifier from public to private does not
+allow access to the class from outside of the assembly.
+
+-- AS TIME PERMITS!
+9) Demo how a Indexer works
+
+10) Demo how "Initializer List" works with a Classes Properties
